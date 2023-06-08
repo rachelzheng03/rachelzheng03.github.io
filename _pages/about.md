@@ -10,4 +10,4 @@ redirect_from:
 
 I am a rising junior at the College of William and Mary majoring in computer science.
 
-[pdf](files/resume.pdf)
+[Resume](resume.pdf)
