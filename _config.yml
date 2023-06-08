@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "rachel_z_03
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -78,7 +78,7 @@ analytics:
 author:
   name             : "Rachel Zheng"
   avatar           : "profile.png"
-  bio              :  William & Mary Undergraduate Student
+  bio              :  William & Mary Student
   location         : 
   employer         :
   pubmed           : 
